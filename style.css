@@ -1,0 +1,75 @@
+header {
+  background: #333;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 0.5rem;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  max-width: 960px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+#images {
+  margin-bottom: 2rem;
+}
+
+figure {
+  display: inline-block;
+  margin: 1rem;
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  background: #fff;
+}
+
+figure img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+  margin-top: 0.5rem;
+}
+
+.info-section {
+  background: #fff;
+  padding: 1rem;
+  border-left: 4px solid #333;
+  margin-bottom: 2rem;
+}
+
+.info-section p {
+  margin-bottom: 1rem;
+}
+
+.highlight {
+  color: red;
+  font-weight: bold;
+}
+
+#contact {
+  background: #e6e6e6;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
